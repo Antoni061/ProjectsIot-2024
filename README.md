@@ -11,11 +11,10 @@
 | 3  | Arduino   | 1.8.15  | IoT     |
 | 4  | Thonny    | 3.3.13  | IDE     |
 ## Prototipo
-
-
+![Ejemplo](image2.jpeg)
 
 ## Diagrama 
-![Ejemplo](image2.jpeg)
+![Ejemplo](image33.png)
 
 
 
