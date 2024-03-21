@@ -11,7 +11,8 @@
 | 3  | Arduino   | 1.8.15  | IoT     |
 | 4  | Thonny    | 3.3.13  | IDE     |
 
-![Uploading image.png…]()
+
+
 
 
 
