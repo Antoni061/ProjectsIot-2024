@@ -10,9 +10,11 @@
 | 2  | XAMPP     | 8.0.11  | Servidor|
 | 3  | Arduino   | 1.8.15  | IoT     |
 | 4  | Thonny    | 3.3.13  | IDE     |
+## Prototipo
 
 
-## Objetivo Diagrama 
+
+## Diagrama 
 ![Ejemplo](image.png)
 
 
