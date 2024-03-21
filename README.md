@@ -1,4 +1,4 @@
-# ProjectsIot-2024
+# ProjectsIot-leñador-2024
 ## Integrantes
 * Eduardo Antonio Zapatero Arellano
 ## Objetivo general 
