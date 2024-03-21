@@ -15,7 +15,7 @@
 
 
 ## Diagrama 
-![Ejemplo](image.png)
+![Ejemplo](image2.png)
 
 
 
