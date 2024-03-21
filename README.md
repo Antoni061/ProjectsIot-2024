@@ -12,6 +12,11 @@
 | 4  | Thonny    | 3.3.13  | IDE     |
 
 
+## Objetivo Diagrama 
+![Ejemplo](image.png)
+
+
+
 
 
 
